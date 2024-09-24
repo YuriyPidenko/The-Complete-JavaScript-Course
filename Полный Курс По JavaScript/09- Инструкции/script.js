@@ -41,5 +41,5 @@ let v = 10;
 myFn(2 + 3)
 myFn(b)
 myFn(v = v + 1)
-myFn(v = v + 1;)
-myFn(let n)
+    // myFn(v = v + 1;)
+    // myFn(let n)
