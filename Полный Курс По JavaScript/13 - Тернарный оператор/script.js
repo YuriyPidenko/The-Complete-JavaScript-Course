@@ -15,7 +15,7 @@
 const value = 11
 
 // Выражение - инструкция
-// value 
+ value 
     ?  console.log('Условие истинно') 
     : console.log('Условие ложно')
 
